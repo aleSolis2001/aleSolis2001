@@ -1,6 +1,6 @@
-console.log("Hi, I´m Alejandro Solis from Paraguay. I am learning JS now since I am a bit inexperienced)
+console.log("Hi, I´m Alejandro Solis from Paraguay.")
 
-let edad = 14
+let edad = 15
 
 const instagram = alesolis20_01
 <!---
